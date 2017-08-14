@@ -7,7 +7,7 @@ body{
   list-style-type: none;
 }
 
-ul li{
+.projects a{
   color: white;
   font-style: normal;
   text-decoration: none;
