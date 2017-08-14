@@ -7,6 +7,8 @@ body{
   list-style-type: none;
 }
 
-.projects li{
+.projects ul li{
   color: white;
+  font-style: normal;
+  text-decoration: none;
 }
